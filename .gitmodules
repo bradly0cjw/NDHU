@@ -1,3 +1,6 @@
 [submodule "DSLAB"]
 	path = DSLAB
 	url = https://github.com/bradly0cjw/DSLAB.git
+[submodule "CPE-Train"]
+	path = CPE-Train
+	url = https://github.com/bradly0cjw/CPE-Train.git
