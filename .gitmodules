@@ -4,3 +4,6 @@
 [submodule "CPE-Train"]
 	path = CPE-Train
 	url = https://github.com/bradly0cjw/CPE-Train.git
+[submodule "AlgoLAB"]
+	path = AlgoLAB
+	url = https://github.com/bradly0cjw/AlgoLAB.git
