@@ -7,3 +7,6 @@
 [submodule "AlgoLAB"]
 	path = AlgoLAB
 	url = https://github.com/bradly0cjw/AlgoLAB.git
+[submodule "LDLAB"]
+    path = LDLAB
+    url = https://github.com/bradly0cjw/LDLAB.git
