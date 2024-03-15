@@ -10,3 +10,6 @@
 [submodule "LDLAB"]
     path = LDLAB
     url = https://github.com/bradly0cjw/LDLAB.git
+[submodule "PLC"]
+	path = PLC
+	url = https://github.com/bradly0cjw/PLC.git
