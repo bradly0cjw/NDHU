@@ -13,3 +13,6 @@
 [submodule "PLC"]
 	path = PLC
 	url = https://github.com/bradly0cjw/PLC.git
+[submodule "Com-Org"]
+	path = Com-Org
+	url = https://github.com/bradly0cjw/Com-Org.git
